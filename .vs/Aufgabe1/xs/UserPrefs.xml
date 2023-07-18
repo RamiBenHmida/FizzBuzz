@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E9EC3098-55F0-45CB-8FDB-F99FAD5FAEB3}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aufgabe1/README.md">
+    <Files>
+      <File FileName="Aufgabe1/README.md" Line="24" Column="24" />
+      <File FileName="../angular-crud-app/README.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aufgabe1" expanded="True">
+            <Node name="Aufgabe1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="README.md" selected="True" />
+            </Node>
+            <Node name="Aufgabe1.nUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Aufgabe1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
